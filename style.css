@@ -1,0 +1,41 @@
+body {
+    padding: 20px;
+    background: grey;
+}
+
+h1{
+    text-align: center;
+    font-size: 70px;
+    font-style: italic;
+}
+#listContainer {
+    width: 350px;
+    margin: 0 auto;
+}
+#lastMovie {
+    font-weight: bold;
+    font-size: 25px;
+    font-style: italic;
+    text-align: center
+}
+
+#lastMovieData {
+    font-size: 35px;
+    padding-left: 20px;
+}
+
+select {
+    width: 50%!important;
+    margin: 35px auto 35px auto;
+}
+
+.film {
+    color: white;
+    background-color: #b5abad;
+    margin: 15px;
+    padding: 10px;
+    border-radius: 50px;
+    text-align: center;
+    font-weight: bold;
+}
+
